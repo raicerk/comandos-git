@@ -59,6 +59,12 @@ git branch nombredelarama
 git checkout nombredelarama
 ```
 
+### Eliminar una rama localmente
+
+```
+git branch -d nombredelarama
+```
+
 ### Descartar los cambios que aun no han sido agregados
 ```
 #Un solo archivo
