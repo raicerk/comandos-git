@@ -2,6 +2,13 @@
 
 Esta es una lista de comandos de Git más utilizados:
 
+
+### Clonar un repositorio de git
+
+```
+git clone urldelrepositorioremoto.git
+```
+
 ### Iniciar un repositorio de git
 ```
 git init
